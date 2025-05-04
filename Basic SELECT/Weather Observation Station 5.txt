@@ -2,4 +2,4 @@ QUESTION:--Query the two cities in STATION with the shortest and longest CITY na
 
 ANSWER:--(SELECT City, LENGTH(City) AS Length FROM Station ORDER BY LENGTH(City), City LIMIT 1)
 UNION ALL
-(SELECT City, LENGTH(City) AS Length FROM Station ORDER BY LENGTH(City) DESC, City DESC LIMI1);
+(SELECT City, LENGTH(City) AS Length FROM Station ORDER BY LENGTH(City) DESC, City DESC LIMIT 1);
