@@ -1,5 +1,11 @@
 # HACKERRANK-SQL-PRACTICE
 Basic SQL practice queries completed on HackerRank.
+SQL COMMANDS:-
+1)DDL
+2)DQL
+3)DCL
+4)TCL
+5)DML
 
 
 
